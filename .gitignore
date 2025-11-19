@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Local Data & Configuration
+storage/
+*.db
+*.sqlite3
+local_config.py
+.env
+
+# Distribution
+dist/
+build/
+*.egg-info/
