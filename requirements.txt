@@ -2,3 +2,4 @@ ollama
 chromadb
 PyPDF2
 python-docx
+doc: "Hellow World"
